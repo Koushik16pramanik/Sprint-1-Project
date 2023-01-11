@@ -1,4 +1,5 @@
 # Sprint-1-Project
-This project Made in SpringBoot, Hibernate use in Java.
-This is a group project,
+Technology used: Java, Maven, Spring-boat, Rest Api, Junit, JPA.
+Database: MySQL
+Role: Backend part only.
 Group Members are ----  Sourav Karmakar,  Deepraj Podder,  Akash Sarkar,  Subrata Mondal,  Koushik Pramanik,  Animesh Manna.
