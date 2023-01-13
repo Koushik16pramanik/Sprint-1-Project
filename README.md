@@ -1,5 +1,5 @@
 # Sprint-1-Project
-Technology used: Java, Maven, Spring-boat, Rest Api, Junit, JPA.
+Technology used: Java, Maven, Spring-boat, Rest API, Junit, JPA.
 
 Database: MySQL.
 
